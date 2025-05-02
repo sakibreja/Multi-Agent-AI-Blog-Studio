@@ -12,6 +12,6 @@ Excited to share my latest AI project where I simulated a real-world editorial t
 
 💡 This project shows how AI can work as a creative partner, not just a tool.
 
-👉 [Add GitHub or Colab link here]
+👉 GitHub link here: https://github.com/sakibreja/Multi-Agent-AI-Blog-Studio.git
 
 #AutoGen #LLM #OpenAI #GenerativeAI #GPT4o #AIinMarketing #ContentAutomation #DataScience #AIProjects
